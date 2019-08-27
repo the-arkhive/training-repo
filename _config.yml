@@ -1,1 +1,9 @@
-theme: paper-jekyll-theme
+github: [metadata]
+ encoding: UTF-8
+ kramdown:
+   input: GFM
+   hard_wrap: false
+ future: true
+ jailed: false
+ remote_theme: bogoli/-folio
+ gfm_quirks: paragraph_end
