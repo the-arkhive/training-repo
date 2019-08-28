@@ -1,4 +1,4 @@
 name: Thomas Williams
 markdown: kramdown
 
-theme: jekyll-theme-minimal
+remote_theme: bogoli/-folio
